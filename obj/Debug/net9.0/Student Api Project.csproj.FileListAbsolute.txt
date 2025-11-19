@@ -1,0 +1,86 @@
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\appsettings.Development.json
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\appsettings.json
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Student Api Project.staticwebassets.endpoints.json
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Student Api Project.exe
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Student Api Project.deps.json
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Student Api Project.runtimeconfig.json
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Student Api Project.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Student Api Project.pdb
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.csproj.AssemblyReference.cache
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.AssemblyInfoInputs.cache
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.AssemblyInfo.cs
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.csproj.CoreCompileInputs.cache
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\scopedcss\bundle\Student Api Project.styles.css
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\staticwebassets.build.json
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\staticwebassets.development.json
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student .5B88B9D7.Up2Date
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.dll
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\refint\Student Api Project.dll
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.pdb
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\Student Api Project.genruntimeconfig.cache
+C:\Student Api Project\Student Api Project\obj\Debug\net9.0\ref\Student Api Project.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Azure.Core.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Azure.Identity.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\System.ClientModel.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\StudentApiBusinessLayer.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\StudentApiDataAccessLayer.dll
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\StudentApiBusinessLayer.pdb
+C:\Student Api Project\Student Api Project\bin\Debug\net9.0\StudentApiDataAccessLayer.pdb
