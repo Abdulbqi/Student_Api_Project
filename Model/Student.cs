@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.VisualBasic;
 
 namespace Student_Api_Project.Model
 {
@@ -8,7 +9,14 @@ namespace Student_Api_Project.Model
        public string Name { get; set; }
        public int Age { get; set; }
         public int Grade { get; set; }
+        public string Email { get; set; }
+         public string PasswordHash { get; set; }
 
+        public string Role { get; set; }
+
+        public string RefreshTokenHash { get; set; }
+        public DateTime? RefreshTokenExpiresAt { get; set; }
+        public DateTime? RefreshTonkenRevokedAt { get; set; }
 
     }
 };
